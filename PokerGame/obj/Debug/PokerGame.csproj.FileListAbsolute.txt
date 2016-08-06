@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\2016-net-week-3\PokerGame\PokerGame\bin\Debug\PokerGame.exe.config
+C:\Users\Owner\Documents\2016-net-week-3\PokerGame\PokerGame\bin\Debug\PokerGame.exe
+C:\Users\Owner\Documents\2016-net-week-3\PokerGame\PokerGame\bin\Debug\PokerGame.pdb
+C:\Users\Owner\Documents\2016-net-week-3\PokerGame\PokerGame\obj\Debug\PokerGame.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\2016-net-week-3\PokerGame\PokerGame\obj\Debug\PokerGame.exe
+C:\Users\Owner\Documents\2016-net-week-3\PokerGame\PokerGame\obj\Debug\PokerGame.pdb
