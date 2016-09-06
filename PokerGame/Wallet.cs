@@ -8,7 +8,7 @@ namespace PokerGame
 {
     class Wallet
     {
-        int balance { get; set; }
+        public int balance { get; set; }
 
         public override string ToString()
         {

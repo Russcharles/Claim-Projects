@@ -8,14 +8,15 @@ namespace PokerGame
 {
     class Player
     {
-        Player()
+        public Player()
         {
-
+            name = "computer";
         }
         Hand hand { get; set; }
 
-        Wallet wallet { get; set; }
+        public Wallet wallet { get; set; }
 
+        public string name { get; set;  }
          
 
 
