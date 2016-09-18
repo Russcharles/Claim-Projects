@@ -8,17 +8,16 @@ namespace PokerGame
 {
     class Player
     {
-        public Player()
+        public Player(string name)
         {
-            name = "computer";
+            this.name = name;
         }
-        Hand hand { get; set; }
+        
+        public Hand hand { get; set; }
 
         public Wallet wallet { get; set; }
 
         public string name { get; set;  }
-         
-
 
     }
 

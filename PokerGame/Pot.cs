@@ -8,8 +8,8 @@ namespace PokerGame
 {
     class Pot
     {
-        int ante;
-        int value { get; set; }
+    
+    public int value { get; set; }
 
     }
 }

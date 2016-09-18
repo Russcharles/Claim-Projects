@@ -51,6 +51,7 @@
     <Compile Include="Pot.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Setup.cs" />
     <Compile Include="Wallet.cs" />
   </ItemGroup>
   <ItemGroup>
